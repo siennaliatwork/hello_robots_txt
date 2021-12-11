@@ -17,3 +17,5 @@ Disallow: /@literalkernel/
 Disallow: /@literalkernel$
 Disallow: /@Yukino/
 Disallow: /@Yukino$
+Disallow: /@Siennali/
+Disallow: /@Siennali$
